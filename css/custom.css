@@ -5,3 +5,6 @@
     color: #32a067;
     text-align: right;
 }
+.overflow-hidden {
+    overflow: hidden;
+}
