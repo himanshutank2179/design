@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b12744-506d-4fcb-bcbf-34c8d0ac5860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feature-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -15,35 +16,37 @@
     <session id="-2143415354">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="22" />
-          <entry key="html" value="268" />
+          <entry key="html" value="425" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="268" />
+          <entry key="HTML" value="425" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="3" />
+          <entry key="html" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -59,12 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="354" column="46" lean-forward="true" selection-start-line="354" selection-start-column="46" selection-end-line="354" selection-end-column="57" />
-              <caret line="364" column="46" lean-forward="true" selection-start-line="364" selection-start-column="46" selection-end-line="364" selection-end-column="57" />
+            <state relative-caret-position="162">
+              <caret line="47" column="50" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,6 +74,31 @@
                 <element signature="n#div#0;n#div#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/feature-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="197" column="142" selection-start-line="197" selection-start-column="142" selection-end-line="197" selection-end-column="142" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restaurants-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="26" lean-forward="true" selection-end-line="491" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -102,6 +129,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Popular Hotels and Accommodations</find>
@@ -114,6 +148,7 @@
       <find>Featu</find>
       <find>logo_2x.png</find>
       <find>footer</find>
+      <find>logo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,6 +160,7 @@
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index-4.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/feature-details.html" />
       </list>
     </option>
   </component>
@@ -144,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,10 +192,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="faq.h&#9;FILE&#9;file://C:/Users/Mox/Desktop/design/faq.html&#10;custom&#9;FILE&#9;file://C:/Users/Mox/Desktop/design/css/custom.css&#10;about.html&#9;FILE&#9;file://C:/Users/Mox/Desktop/design/about.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -191,11 +228,13 @@
       <workItem from="1544110099604" duration="5536000" />
       <workItem from="1544204548915" duration="2768000" />
       <workItem from="1544282670911" duration="1935000" />
+      <workItem from="1544285855626" duration="2184000" />
+      <workItem from="1544333149488" duration="1968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10239000" />
+    <option name="totallyTimeSpent" value="14391000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,7 +249,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09455371" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11043873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,17 +305,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restaurants-grid-sidebar-2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurants-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="26" lean-forward="true" selection-end-line="491" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="354" column="46" lean-forward="true" selection-start-line="354" selection-start-column="46" selection-end-line="354" selection-end-column="57" />
-          <caret line="364" column="46" lean-forward="true" selection-start-line="364" selection-start-column="46" selection-end-line="364" selection-end-column="57" />
+        <state relative-caret-position="162">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="197" column="142" selection-start-line="197" selection-start-column="142" selection-end-line="197" selection-end-column="142" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
