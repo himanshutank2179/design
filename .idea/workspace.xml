@@ -2,130 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b12744-506d-4fcb-bcbf-34c8d0ac5860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customer-management-feature-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Appointment_Cancel_Text SMS_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Appointment_Cancel_Text_SMS_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Appointment_History_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Customer_Information_1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Email_Invoice_5.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Invoice_SMS_6.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/New_Appointment_and_Reschedule_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Reminder_Text_SMS_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/_all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/aero.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/aero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/aero@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/blue@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/flat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/flat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/flat@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/green@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/grey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/grey@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/orange.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/orange@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/pink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/pink@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/purple@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/red@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/flat/yellow@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/futurico/futurico.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/futurico/futurico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/futurico/futurico@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/_all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/aero.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/grey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/line.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/line@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/orange.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/pink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/line/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/_all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/aero.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/aero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/aero@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/blue@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/green@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/grey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/grey@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/minimal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/minimal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/minimal@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/orange.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/orange@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/pink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/pink@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/purple@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/red@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/minimal/yellow@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/polaris/polaris.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/polaris/polaris.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/polaris/polaris@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/_all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/aero.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/aero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/aero@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/blue@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/green@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/grey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/grey@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/orange.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/orange@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/pink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/pink@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/purple@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/red@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/square.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/square@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification-feature-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/notification-feature-details.html" afterDir="false" />
     </list>
@@ -139,9 +16,9 @@
     <session id="-2143415354">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
@@ -150,19 +27,19 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="177" />
-          <entry key="html" value="1306" />
+          <entry key="html" value="1337" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="177" />
-          <entry key="HTML" value="1306" />
+          <entry key="HTML" value="1337" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -193,12 +70,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1643">
-              <caret line="136" column="84" selection-start-line="136" selection-start-column="84" selection-end-line="136" selection-end-column="84" />
+            <state relative-caret-position="-3317">
+              <caret line="198" column="29" lean-forward="true" selection-start-line="198" selection-start-column="29" selection-end-line="198" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
@@ -226,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calendar-feature-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
+            <state relative-caret-position="12258">
               <caret line="475" column="32" selection-start-line="475" selection-start-column="32" selection-end-line="475" selection-end-column="32" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -239,10 +115,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notification-feature-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="379" column="36" lean-forward="true" selection-start-line="379" selection-start-column="36" selection-end-line="379" selection-end-column="36" />
+            <state relative-caret-position="-1356">
+              <caret line="156" column="41" selection-start-line="156" selection-start-column="41" selection-end-line="156" selection-end-column="41" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -255,7 +131,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/customer-management-feature-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="3861">
               <caret line="163" column="91" selection-start-line="163" selection-start-column="91" selection-end-line="163" selection-end-column="91" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -275,8 +151,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>popu</find>
-      <find>who can</find>
       <find>payment</find>
       <find>Featu</find>
       <find>logo_2x.png</find>
@@ -305,6 +179,8 @@
       <find>notes</find>
       <find>reduce</find>
       <find>Who Can</find>
+      <find>Appo</find>
+      <find>Appointment Reminder Email</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -317,8 +193,8 @@
         <option value="$PROJECT_DIR$/feature-details.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/calendar-feature-details.html" />
-        <option value="$PROJECT_DIR$/notification-feature-details.html" />
         <option value="$PROJECT_DIR$/customer-management-feature-details.html" />
+        <option value="$PROJECT_DIR$/notification-feature-details.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -339,7 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -351,6 +226,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,12 +278,13 @@
       <workItem from="1544631886096" duration="7482000" />
       <workItem from="1544718262209" duration="609000" />
       <workItem from="1544720355028" duration="3267000" />
-      <workItem from="1544885085892" duration="1644000" />
+      <workItem from="1544885085892" duration="1923000" />
+      <workItem from="1544891093264" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46276000" />
+    <option name="totallyTimeSpent" value="46861000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,8 +297,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11422088" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.039334342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,7 +312,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3287037" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -506,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/calendar-feature-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
+        <state relative-caret-position="12258">
           <caret line="475" column="32" selection-start-line="475" selection-start-column="32" selection-end-line="475" selection-end-column="32" />
           <folding>
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -515,12 +393,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notification-feature-details.html">
+    <entry file="file://$PROJECT_DIR$/customer-management-feature-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="379" column="36" lean-forward="true" selection-start-line="379" selection-start-column="36" selection-end-line="379" selection-end-column="36" />
+        <state relative-caret-position="3861">
+          <caret line="163" column="91" selection-start-line="163" selection-start-column="91" selection-end-line="163" selection-end-column="91" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notification-feature-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1356">
+          <caret line="156" column="41" selection-start-line="156" selection-start-column="41" selection-end-line="156" selection-end-column="41" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -529,24 +417,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customer-management-feature-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="163" column="91" selection-start-line="163" selection-start-column="91" selection-end-line="163" selection-end-column="91" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1643">
-          <caret line="136" column="84" selection-start-line="136" selection-start-column="84" selection-end-line="136" selection-end-column="84" />
+        <state relative-caret-position="-3317">
+          <caret line="198" column="29" lean-forward="true" selection-start-line="198" selection-start-column="29" selection-end-line="198" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
