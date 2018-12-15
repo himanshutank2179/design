@@ -48,7 +48,9 @@ a.box_topic i {
 .m-img {
     width: 75%;
 }
-
+#logo {
+    margin-top: 5px;
+}
 /*.newLine {*/
 /*margin: 10px 0 10px 0;*/
 /*}*/
